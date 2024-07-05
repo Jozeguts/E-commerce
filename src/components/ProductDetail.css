@@ -1,0 +1,20 @@
+/* src/components/ProductDetail.css */
+.product-detail {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .edit-link, .back-link {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .edit-link:hover, .back-link:hover {
+    background-color: #0056b3;
+  }
+  
